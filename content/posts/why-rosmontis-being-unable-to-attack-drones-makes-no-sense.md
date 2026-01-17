@@ -1,6 +1,6 @@
 +++
 date = '2026-01-13T13:18:15Z'
-draft = false
+draft = true
 title = 'Why Rosmontis being unable to attack drones makes no sense'
 thumbnail = 'images/rosmontis.png'
 +++
@@ -13,15 +13,17 @@ Rosmontis isn't a "bad" Operator, she's just very underwhelming addition in a cl
 
 Rosmontis' goal isn't about nuking enemies, rather she's more focused on using large AOE attacks to clean up groups of weak enemies.
 
-Her biggest weakness comes from her complete inability to hit any aerial targets, a trait she inherits from being apart of the 'Flinger' branch.
+Her biggest weakness comes from her complete inability to hit any aerial targets, a trait she inherits from being apart of the 'Flinger' subclass.
 
-The Flinger branch consists of Rosmontis, Wiš'adel, Greyy the Lightningbearer, and the Terra Research Commission.
+The Flinger subclass consists of Rosmontis, Wiš'adel, Greyy the Lightningbearer, and the Terra Research Commission.
 
 For this sake of this analysis, I'm only going to be talking about Rosmontis and Wiš'adel. Greyy is a 5 star and therefore not relevant to what I'm talking about here, and the Terra Research Commission is a 1 star joke operator that you should never use anyways.
 
 Archetyes are usually based around their limitation. Juggernaunts cannot be healed, but have incredible self sustain and healing. Flagbearers are cannot block enemies, but provide incredible DP generation, etc.
 
-But the Flinger Branch is nothing but a limitation that holds Rosmontis back.
+But the Flinger subclass is nothing but a limitation that holds Rosmontis back.
+
+If Wiš'adel is allowed to completely ignore the limitation of the subclass, why can't Rosmontis do the same?
 
 Rosmontis is a 6 star limited operator, making her extremely hard to obtain. Outside of only 1 or 2 banners per year, Rosmontis is 
 
