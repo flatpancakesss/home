@@ -327,7 +327,7 @@ text-align: center;
 }
 
 .hover-filter {
-  background: rgb(255, 255, 255);
+  background: #ffffff;
   opacity: 0.3;
 }
 
@@ -369,13 +369,34 @@ text-align: center;
   display: block;
 }
 
+.art-summary {
+  padding: 0.7rem;
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+  box-sizing: border-box;
+}
+
+.art-summary a {
+  margin: 0;
+}
+
+.art-date {
+  padding: 0rem;
+  float: right;
+}
+
 .art-header {
   background-color: #e3e3e300;
   border-bottom: solid 2px #000000 ;
 }
 
-.art-header:hover .hover-filter{
-  opacity: 0.7;
+.art-hover-filter {
+  background: #eae0ff;
+  opacity: 0.0;
+}
+
+.art-header:hover .art-hover-filter{
+  opacity: 0.5;
 }
 
 .art-thumbnail {
@@ -388,6 +409,70 @@ text-align: center;
 }
 
 .art-bg-image {
+  position: absolute;   /* absolute */
+  top: 0;               /* inset-0 */
+  right: 0;             /* inset-0 */
+  bottom: 0;            /* inset-0 */
+  left: 0;              /* inset-0 */
+  object-fit: cover;    /* object-cover */
+  height: 100%;         /* h-full */
+  width: 100%;          /* w-full */
+  z-index: -10;         /* -z-10 */
+}
+
+// Contains stylings for the games page
+
+.games-container {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  justify-content: center;
+  padding-left: 0;
+  gap: 1rem;
+}
+
+.games-post {
+  width: calc(30% - 0.5rem);
+  box-sizing: border-box;
+  border: solid 2px #000000 ;
+}
+
+@media (max-width: 500px) {
+  .games-post {
+    width: 100%;
+  }
+}
+
+.games-post a {
+  text-decoration: none;
+  width: 100%;
+  display: block;
+}
+
+.games-header {
+  background-color: #e3e3e300;
+  border-bottom: solid 2px #000000 ;
+}
+
+.games-hover-filter {
+  background: #eae0ff;
+  opacity: 0.0;
+}
+
+.games-header:hover .games-hover-filter{
+  opacity: 0.5;
+}
+
+.games-thumbnail {
+  position: relative;
+  z-index: 1;
+  box-sizing: border-box;
+  padding: 0.5rem;
+  padding-top: 13rem;
+  padding-bottom: 0.5rem;
+}
+
+.games-bg-image {
   position: absolute;   /* absolute */
   top: 0;               /* inset-0 */
   right: 0;             /* inset-0 */

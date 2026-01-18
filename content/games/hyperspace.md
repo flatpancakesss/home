@@ -1,10 +1,11 @@
 +++
-date = '2025-08-24T18:58:36+01:00'
+date = '2022-03-22T18:58:36+01:00'
 draft = false
 title = 'Hyperspace'
+thumbnail = 'images/GAMES-hyperspace.png'
 +++
-#### Developed March 2022. Not currently publicly released.
-
 ![alt](images/WorksHyperspace.png)
 
-Something I made in 2 days for a school exam when I was like 16. I had no ability to draw at this time, but I used that to my advantage. Creating simple geometric shapes, with a mostly monochrome artstyle.
+A simple bullet hell game that I made in 2 days for a school exam when I was about 15 to 16 years old. I had no ability to draw at this time, so I used simple geometric shapes and a mostly monochrome color scheme to create the visuals for the game.
+
+#### Developed sometime in March 2022. No public release planned.

@@ -1,10 +1,13 @@
 +++
-date = '2025-08-24T18:58:36+01:00'
+date = '2025-08-11T18:58:36+01:00'
 draft = false
-title = 'untitled university final project'
+title = 'Untitled university final project'
+thumbnail = 'images/GAMES-uni.png'
 +++
-#### Developed 11 August 2025. Not currently publicly released.
+{{< youtube S2EKs2qq8jM >}}
 
-![alt](images/WorksUni.png)
+##### Gameplay demo has been recorded without audio due to usage of placeholder music tracks, sorry!
 
-A short bullet hell adventure game, developed solo and on a tight deadline as a final submission for university. Uses Reisen's Combat Training as a basis and expands massively upon it,new enemy types, new player abilities and an Adventure Mode alongside the original endless survival mode. 
+A short bullet hell adventure game, developed solo and on a tight deadline as a final submission for my university course. Uses Reisen's Combat Training as a basis and expands massively upon it with new enemy types, new player abilities and an Adventure Mode alongside the original endless survival mode. 
+
+#### Developed 6 August 2025. No public release planned.
